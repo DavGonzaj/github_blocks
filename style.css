@@ -1,0 +1,59 @@
+h1{
+  font-size: 50px;
+  color:darkgrey;
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+
+}
+
+.first{
+  margin: 20px;
+  background-color:cyan;
+  display: flex;
+  justify-content: space-around;
+
+}
+.investocat{
+  height: 200px;
+
+}
+.spec{
+  height: 200px;
+
+}
+.grim{
+  height: 200px;
+
+}
+
+.second{
+  margin: 20px;
+  background-color:darkorchid;
+  display: flex;
+  justify-content: space-evenly;
+}
+.daft{
+  height: 200px;
+}
+.punk{
+  height: 200px;
+}
+
+.third{
+  margin: 20px;
+  background-color:white;
+  display: flex;
+  justify-content: space-around;
+}
+.homer{
+  height: 200px;
+}
+.storm{
+  height: 200px;
+}
+.niner{
+  height: 200px;
+}
